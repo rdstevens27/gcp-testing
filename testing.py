@@ -1,2 +1,2 @@
-# This is my frist Program
+# This is my first Program
 print("Hello World")
